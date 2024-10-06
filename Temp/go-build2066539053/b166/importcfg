@@ -1,0 +1,4 @@
+# import config
+packagefile fmt=C:\Users\luis\AppData\Local\go-build\77\776188af71ea393dbfc18f2d0e7cff753ebe1deea1c1c8b209218e121e65b76d-d
+packagefile runtime/debug=C:\Users\luis\AppData\Local\go-build\d7\d7e91ff4b71996f2781870900dfff191a23e1020a0b7aee168268f1bd8540601-d
+packagefile sync/atomic=C:\Users\luis\AppData\Local\go-build\95\950ada46eebb584f88394c6b0a74c52670b9e6a5be01af3e698e194bdb51994e-d

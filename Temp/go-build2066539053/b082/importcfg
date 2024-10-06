@@ -1,0 +1,14 @@
+# import config
+packagefile bytes=C:\Users\luis\AppData\Local\go-build\e9\e947de99bcb09f68d7f7106d9e4d22240b8799eeff123adfa55de55e6cdeed00-d
+packagefile errors=C:\Users\luis\AppData\Local\go-build\a2\a2de0a39b3b360f262f2e0168097a5c677eaa48106378285f5ada506b26ae10e-d
+packagefile fmt=C:\Users\luis\AppData\Local\go-build\77\776188af71ea393dbfc18f2d0e7cff753ebe1deea1c1c8b209218e121e65b76d-d
+packagefile github.com/go-ole/go-ole=D:\Src\GO\Go Projects\HWMon\Temp\go-build2066539053\b078\_pkg_.a
+packagefile github.com/go-ole/go-ole/oleutil=D:\Src\GO\Go Projects\HWMon\Temp\go-build2066539053\b079\_pkg_.a
+packagefile log=C:\Users\luis\AppData\Local\go-build\e5\e5c887204aeff2b7082b3db703860ffcbce6248dbceec848eb703272849933ba-d
+packagefile os=C:\Users\luis\AppData\Local\go-build\4b\4b8bdd588c7b0520686f0601f7514810aa1177cfe4e8c838dffceac3a3ad29d5-d
+packagefile reflect=C:\Users\luis\AppData\Local\go-build\1d\1dd15fe09e3a18b8416ae5179bddfd52c70fa890b68d61b037f19b75a9517c14-d
+packagefile runtime=C:\Users\luis\AppData\Local\go-build\1f\1fc6be8c10242ce14281b951c6e501bf7bdfa36b1b43ad49dabec485574c3d21-d
+packagefile strconv=C:\Users\luis\AppData\Local\go-build\82\82c7ecd841b5004889198fe8c48fca282eb45e993d2b439d21d8f9bb24da7211-d
+packagefile strings=C:\Users\luis\AppData\Local\go-build\af\afcd7da119522f46a7573e8fc316c20aa8534df36b113e5e7051947b36e5d142-d
+packagefile sync=C:\Users\luis\AppData\Local\go-build\b7\b7c8a7c247020983437db0f2b57417b14eb13339d079279b1cfc74e854731447-d
+packagefile time=C:\Users\luis\AppData\Local\go-build\a0\a0efd97733103ff2797ba8d5ae293c65d82b63475d7c0c8f6cd9e526e149bd0b-d

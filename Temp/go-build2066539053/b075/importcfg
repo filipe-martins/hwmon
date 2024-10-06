@@ -1,0 +1,13 @@
+# import config
+packagefile bytes=C:\Users\luis\AppData\Local\go-build\e9\e947de99bcb09f68d7f7106d9e4d22240b8799eeff123adfa55de55e6cdeed00-d
+packagefile encoding/binary=C:\Users\luis\AppData\Local\go-build\fa\fa5abd99781dcb7390175694f85519110964020f7200ddfd7c21d657098369c6-d
+packagefile errors=C:\Users\luis\AppData\Local\go-build\a2\a2de0a39b3b360f262f2e0168097a5c677eaa48106378285f5ada506b26ae10e-d
+packagefile fmt=C:\Users\luis\AppData\Local\go-build\77\776188af71ea393dbfc18f2d0e7cff753ebe1deea1c1c8b209218e121e65b76d-d
+packagefile net=C:\Users\luis\AppData\Local\go-build\57\5701777be0fe7ee74b60164cedc77dc2a43c129cf0c548df0b15f79278dea435-d
+packagefile runtime=C:\Users\luis\AppData\Local\go-build\1f\1fc6be8c10242ce14281b951c6e501bf7bdfa36b1b43ad49dabec485574c3d21-d
+packagefile strings=C:\Users\luis\AppData\Local\go-build\af\afcd7da119522f46a7573e8fc316c20aa8534df36b113e5e7051947b36e5d142-d
+packagefile sync=C:\Users\luis\AppData\Local\go-build\b7\b7c8a7c247020983437db0f2b57417b14eb13339d079279b1cfc74e854731447-d
+packagefile sync/atomic=C:\Users\luis\AppData\Local\go-build\95\950ada46eebb584f88394c6b0a74c52670b9e6a5be01af3e698e194bdb51994e-d
+packagefile syscall=C:\Users\luis\AppData\Local\go-build\7b\7bab78499e79d772708be7018e87c00231ff26aeaaf02e9984e1ac4e1922358b-d
+packagefile time=C:\Users\luis\AppData\Local\go-build\a0\a0efd97733103ff2797ba8d5ae293c65d82b63475d7c0c8f6cd9e526e149bd0b-d
+packagefile unicode/utf16=C:\Users\luis\AppData\Local\go-build\09\0957e2847f50572446d1059a4c9d81258637e3f60615cc7594a87527b147d603-d

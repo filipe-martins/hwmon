@@ -1,0 +1,8 @@
+# import config
+packagefile errors=C:\Users\luis\AppData\Local\go-build\a2\a2de0a39b3b360f262f2e0168097a5c677eaa48106378285f5ada506b26ae10e-d
+packagefile golang.org/x/sys/windows=D:\Src\GO\Go Projects\HWMon\Temp\go-build2066539053\b075\_pkg_.a
+packagefile io=C:\Users\luis\AppData\Local\go-build\fb\fbcf51e1c6b0c4f9663edf8c6aa86c2ef2082d560dc5d8ec7fc9f37e065b4868-d
+packagefile runtime=C:\Users\luis\AppData\Local\go-build\1f\1fc6be8c10242ce14281b951c6e501bf7bdfa36b1b43ad49dabec485574c3d21-d
+packagefile syscall=C:\Users\luis\AppData\Local\go-build\7b\7bab78499e79d772708be7018e87c00231ff26aeaaf02e9984e1ac4e1922358b-d
+packagefile time=C:\Users\luis\AppData\Local\go-build\a0\a0efd97733103ff2797ba8d5ae293c65d82b63475d7c0c8f6cd9e526e149bd0b-d
+packagefile unicode/utf16=C:\Users\luis\AppData\Local\go-build\09\0957e2847f50572446d1059a4c9d81258637e3f60615cc7594a87527b147d603-d
